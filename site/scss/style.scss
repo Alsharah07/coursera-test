@@ -1,1 +1,6 @@
-@import 'partials/_variables' 
+@import 'partials/variables';
+@import 'partials/icons';
+
+body {
+  color: $primary;
+}
